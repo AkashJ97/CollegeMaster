@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CollegeMaster</string>
+    <string name="reset" />
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+    <string-array name="activities">
+        <item> Notes</item>
+        <item> Stopwatch</item>
+    </string-array>
+</resources>
